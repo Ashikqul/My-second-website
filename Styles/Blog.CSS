@@ -4,3 +4,12 @@ div{
   margin bottom: 10px;
   padding: auto;
 }
+body {
+  
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
